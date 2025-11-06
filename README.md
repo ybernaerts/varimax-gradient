@@ -1,2 +1,4 @@
 # varimax-gradient
-Gradient of the varimax objective
+Projected gradient of the varimax objective.
+<br>
+Derivation of a projected gradient ascent algorithm, with code.
